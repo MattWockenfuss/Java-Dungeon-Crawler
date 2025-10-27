@@ -1,0 +1,12 @@
+#Dungeon Generation Config
+
+
+
+
+roomMax
+rooms = 50 -> 100
+numOfRooms = 60
+radius = 3
+
+
+Spawn Entities = true
